@@ -86,7 +86,7 @@
 
 ![](https://i.imgur.com/ubkst2R.png)
 
-![](https://i.imgur.com/PMSFBCE.png)
+![](https://i.imgur.com/Smb2txj.png)
 
 4. Устраните дублирования перед началом работы, нажав "Исключить".
 
